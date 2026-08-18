@@ -101,9 +101,3 @@ Research & Real-World Projects
 
 </div>
 
-<div align="center">
-
-⚡ Build. Break. Learn. Repeat.
-<img src="https://raw.githubusercontent.com/4rxdhy/4rxdhy/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-</div>

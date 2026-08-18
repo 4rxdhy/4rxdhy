@@ -29,9 +29,6 @@ README_upgraded.md
 
 📊 GitHub Activity
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=4rxdhy&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" height="180" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=4rxdhy&hide_border=true&theme=tokyonight" height="180" alt="Contribution Streak" />
 
 </div>

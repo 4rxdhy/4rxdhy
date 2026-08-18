@@ -76,50 +76,102 @@ Your normal GitHub profile already contains the official contribution calendar. 
 <div align="center">
 
 <a href="https://github.com/4rxdhy?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  <img src="https://img.shields.io/github/repos/4rxdhy?style=for-the-badge&logo=github&label=PUBLIC%20REPOS" alt="Public repositories" />
+</a>
+<a href="https://github.com/4rxdhy?tab=followers">
+  <img src="https://img.shields.io/github/followers/4rxdhy?style=for-the-badge&logo=github&label=FOLLOWERS" alt="Followers" />
 </a>
 <a href="https://github.com/4rxdhy?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-View%20My%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/4rxdhy?style=for-the-badge&logo=github&label=STARS%20EARNED" alt="Stars earned" />
 </a>
-<a href="https://github.com/4rxdhy?tab=overview">
-  <img src="https://img.shields.io/badge/Activity-GitHub-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Activity" />
-</a>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=4rxdhy&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight&custom_title=Aradhy's%20GitHub%20Activity" alt="GitHub activity statistics" />
 
 </div>
-
-Note: GitHub README images cannot reliably calculate live total repository/star counts without an API-backed service. The buttons above always link to the live GitHub data instead of displaying potentially stale numbers.
 
 🚀 Featured Projects
 
+A small selection of projects I'm most proud of. I keep this section intentionally curated rather than listing every repository.
+
 <div align="center">
 
-<a href="https://github.com/4rxdhy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/4rxdhy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" />
-</a>
+🔥 Project 01
+
+Add your strongest project here
+
+A short one-line explanation of the problem it solves and what makes it interesting.
+
+Stack: React Node.js MongoDB
+
+→ View Repository
+
+</td>
+<td width="50%" valign="top">
+
+🤖 Project 02
+
+Add your ML / data project here
+
+A short explanation of the model, dataset, experiment, or real-world use case.
+
+Stack: Python Pandas Scikit-learn
+
+→ View Repository
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⚡ Project 03
+
+Add your DSA / systems project here
+
+Highlight an algorithm, data structure, system, or engineering problem you solved.
+
+Stack: C++ DSA Algorithms
+
+→ View Repository
+
+</td>
+<td width="50%" valign="top">
+
+🌐 Project 04
+
+Add your best deployed project here
+
+Showcase something with a live demo, strong UI, or useful real-world functionality.
+
+Stack: JavaScript React API
+
+→ View Repository
+
+</td>
+</tr>
+</table>
 
 </div>
 
-🔧 Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with your actual repository names.
+⭐ How I choose featured projects
 
-⭐ What makes a project worth featuring?
+Real-world value — solves an actual problem
 
-Real-world problem solved
+Engineering quality — clean structure, readable code and good documentation
 
-Clean README and documentation
+Technical depth — meaningful algorithms, architecture or ML work
 
-Live demo or deployment
+Proof of work — demo, screenshots, tests or measurable results
 
-Meaningful Git history
+Active development — commits that show the project evolving
 
-Good UI/UX
-
-Tests and error handling
-
-Interesting technical decisions
+💡 Once you give me the names of your 4 best repositories, these cards can be converted into direct repository cards with automatic stars/forks/language information.
 
 💻 Languages & Tools
 
@@ -167,15 +219,27 @@ Data & Other Tools
 
 📚 Currently Learning
 
-DSA & Algorithms
-        ↓
-Full-Stack Development
-        ↓
-Machine Learning
-        ↓
-System Design & Computer Science Fundamentals
-        ↓
-Research & Real-World Projects
+<div align="center">
+
+🧠 DSA
+
+🌐 Full Stack
+
+🤖 Machine Learning
+
+⚙️ CS Fundamentals
+
+Algorithms & Data Structures
+
+React • Node • APIs
+
+Python • Data • Models
+
+OS • DBMS • Networks
+
+</div>
+
+Current direction: building strong fundamentals → shipping real projects → solving harder problems → exploring ML and research.
 
 📫 Connect With Me
 
@@ -200,6 +264,8 @@ Research & Real-World Projects
 
 ⚡ Build. Break. Learn. Repeat.
 
-<img src="https://raw.githubusercontent.com/4rxdhy/4rxdhy/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<a href="https://github.com/4rxdhy">
+  <img src="https://img.shields.io/badge/Keep%20Building-4rxdhy-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Keep building" />
+</a>
 
 </div>

@@ -52,13 +52,13 @@ Languages
 <p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" alt="Programming Languages" /> </p>
 
 Frontend & Backend
-<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,spring,tailwind" alt="Frontend and Backend Technologies" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs," alt="Frontend and Backend Technologies" /> </p>
 
 Databases, Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,azure,gcp,docker,git,github" alt="Databases Cloud and DevOps" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github" alt="Databases Cloud and DevOps" /> </p>
 
 Data & Other Tools
-<p> <img src="https://skillicons.dev/icons?i=pandas,matlab,arduino,blender,graphql" alt="Other Technologies" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=pandas,matlab,arduino," alt="Other Technologies" /> </p>
 
 </div>
 

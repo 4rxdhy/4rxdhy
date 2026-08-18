@@ -42,16 +42,6 @@ README_upgraded.md
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=4rxdhy&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity Graph" />
 
 </div>
-
-Your normal GitHub profile already contains the official contribution calendar. The activity graph above gives the README a larger visual representation of your commit history.
-
-🏆 GitHub Achievements
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=4rxdhy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
-
-</div>
-
 📌 GitHub Overview
 <div align="center">
 

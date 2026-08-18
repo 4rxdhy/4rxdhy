@@ -9,7 +9,7 @@ README_upgraded.md
 💻 Computer Engineering Student • Full-Stack Developer • ML Enthusiast
 <p> <a href="https://github.com/4rxdhy"> <img src="https://komarev.com/ghpvc/?username=4rxdhy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> <a href="https://github.com/4rxdhy?tab=followers"> <img src="https://img.shields.io/github/followers/4rxdhy?label=Followers&style=flat" alt="GitHub Followers" /> </a> </p>
 
-<p> <a href="https://github.com/4rxdhy"> <img src="https://img.shields.io/github/followers/4rxdhy?style=social" alt="GitHub" /> </a> <a href="https://www.instagram.com/4rxdhy"> <img src="https://img.shields.io/badge/Instagram-4rxdhy-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://leetcode.com/4rxdhy"> <img src="https://img.shields.io/badge/LeetCode-4rxdhy-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
+<p> <a href="https://github.com/4rxdhy"> <img src="https://img.shields.io/github/followers/4rxdhy?style=social" alt="GitHub" /> </a> <a  <a href="https://leetcode.com/4rxdhy"> <img src="https://img.shields.io/badge/LeetCode-4rxdhy-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /> </a> </p>
 
 </div>
 

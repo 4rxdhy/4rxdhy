@@ -64,13 +64,13 @@ Note: GitHub README images cannot reliably calculate live total repository/star 
 🚀 Featured Projects
 <div align="center">
 
-<a href="https://github.com/4rxdhy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1" /> </a>
+<a href="https://github.com/4rxdhy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="repo=college-management-system" /> </a>
 
-<a href="https://github.com/4rxdhy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2" /> </a>
+<a href="https://github.com/4rxdhy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="repo=college-management-system" /> </a>
 
 </div>
 
-🔧 Replace repo=college-management-system and repo=ml-stock-predictor with your actual repository names.
+🔧 Replace repo=college-management-system and repo=college-management-system with your actual repository names.
 
 ⭐ What makes a project worth featuring?
 Real-world problem solved

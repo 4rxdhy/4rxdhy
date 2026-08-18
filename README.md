@@ -54,13 +54,7 @@ Languages
 Frontend & Backend
 <p> <img src="https://skillicons.dev/icons?i=react,nodejs," alt="Frontend and Backend Technologies" /> </p>
 
-Databases, Cloud & DevOps
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github" alt="Databases Cloud and DevOps" /> </p>
 
-Data & Other Tools
-<p> <img src="https://skillicons.dev/icons?i=pandas,matlab,arduino," alt="Other Technologies" /> </p>
-
-</div>
 
 🧠 DSA & Problem Solving
 <div align="center">

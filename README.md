@@ -57,35 +57,6 @@ Your normal GitHub profile already contains the official contribution calendar. 
 
 <a href="https://github.com/4rxdhy?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /> </a> <a href="https://github.com/4rxdhy?tab=stars"> <img src="https://img.shields.io/badge/Stars-View%20My%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" /> </a> <a href="https://github.com/4rxdhy?tab=overview"> <img src="https://img.shields.io/badge/Activity-GitHub-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Activity" /> </a>
 
-</div>
-
-Note: GitHub README images cannot reliably calculate live total repository/star counts without an API-backed service. The buttons above always link to the live GitHub data instead of displaying potentially stale numbers.
-
-🚀 Featured Projects
-<div align="center">
-
-<a href="https://github.com/4rxdhy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" alt="repo=college-management-system" /> </a>
-
-<a href="https://github.com/4rxdhy"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=4rxdhy&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" alt="repo=college-management-system" /> </a>
-
-</div>
-
-🔧 Replace repo=college-management-system and repo=college-management-system with your actual repository names.
-
-⭐ What makes a project worth featuring?
-Real-world problem solved
-
-Clean README and documentation
-
-Live demo or deployment
-
-Meaningful Git history
-
-Good UI/UX
-
-Tests and error handling
-
-Interesting technical decisions
 
 💻 Languages & Tools
 <div align="center">
